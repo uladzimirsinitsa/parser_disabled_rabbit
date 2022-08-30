@@ -1,0 +1,9 @@
+.vscode
+env
+.env
+urls
+workspace
+create_list_price.py
+get_links.py
+price_get_new_data.py
+sum_cards_and_clear.py
